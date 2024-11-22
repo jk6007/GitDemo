@@ -29,6 +29,12 @@ public class SeleniumTest {
 	{
 		System.out.println("elementfdsUi");	
 	}
+	@Test
+	public void elementsU1ssijk()
+	{
+		System.out.println("elementfdsUi");	
+	}
+	
 	
 	
 }
