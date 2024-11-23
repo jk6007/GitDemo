@@ -34,6 +34,11 @@ public class SeleniumTest {
 	{
 		System.out.println("elementfdsUi");	
 	}
+	@Test
+	public void elementsU1sslijk()
+	{
+		System.out.println("elementfdsUi");	
+	}
 	
 	
 	
